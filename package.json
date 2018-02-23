@@ -1,7 +1,7 @@
 {
-  "name": "bed and blockchain",
+  "name": "bnb",
   "version": "0.0.2",
-  "description": "",
+  "description": "Starter code for Bed and Blockchain demo dapp",
   "main": "truffle.js",
   "directories": {
     "test": "test"
