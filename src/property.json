@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Alpine Cabin",
+    "picture": "images/alpine-cabin.jpeg",
+    "type": "House",
+    "sleeps": 8,
+    "location": "Bolzano, Italy",
+    "rate": 2
+  },
+  {
+    "id":1,
+    "name": "English Countryside Cottage",
+    "picture": "images/english-countryside-home.jpg",
+    "type": "House",
+    "sleeps": 4,
+    "location": "Dorset, UK",
+    "rate": 3
+  },
+  {
+    "id":2,
+    "name": "Greek Condo",
+    "picture": "images/greek-condo.jpg",
+    "type": "Condo",
+    "sleeps": 3,
+    "location": "Athens, Greece",
+    "rate": 1
+  },
+  {
+    "id": 3,
+    "name": "LA Living",
+    "picture": "images/la-home.jpeg",
+    "type": "Condo",
+    "sleeps": 2,
+    "location": "LA",
+    "rate": 3
+  },
+  {
+    "id":4,
+    "name": "Maritime Home",
+    "picture": "images/maritime-condo.jpg",
+    "type": "Apartment",
+    "sleeps": 2,
+    "location": "Halifax, NS",
+    "rate": 2
+  },
+  {
+    "id":5,
+    "name": "I Love NY",
+    "picture": "images/ny-apartment.jpg",
+    "type": "Condo",
+    "sleeps": 4,
+    "location": "SoHo",
+    "rate": 4
+  },
+  {
+    "id":6,
+    "name": "Beachfront Cabana",
+    "picture": "images/beachfront-cabin.jpg",
+    "type": "Cabana",
+    "sleeps": 2,
+    "location": "Miami",
+    "rate": 4
+  },
+  {
+    "id":7,
+    "name": "Cabin in the Woods",
+    "picture": "images/woods-cabin.jpg",
+    "type": "Cottage",
+    "sleeps": 2,
+    "location": "Middle of Nowhere",
+    "rate": 1
+  }
+]
