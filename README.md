@@ -21,7 +21,7 @@ Upon cloning the repo, cd into the directory using your terminal/command line an
 This will install the required dependencies.
 
 
-###1. Write the Booking.sol Smart Contract
+##1. Write the Booking.sol Smart Contract
 
 
 Under the /contracts folder, create a new file named Booking.sol. This will be our booking smart contract. Write the following code:
