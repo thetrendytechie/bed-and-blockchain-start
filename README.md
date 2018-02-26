@@ -6,11 +6,11 @@ Starting project for Bed and Blockchain dapp demo - code stubs for solidity and 
 Before you clone this repo, ensure you have the following tools installed:
 
 * Solidity
-* Ganache
+* Ganache GUI
 * Truffle
 * Node Package Manager
 * Node.js
-* MetaMask
+* Chrome browser with MetaMask extension
 
 ## Running the dapp:
 
